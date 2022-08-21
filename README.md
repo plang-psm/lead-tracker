@@ -28,8 +28,8 @@ The Lead Tracker was created as a training exercise to practice DOM manipulation
 ## How to use
 * See [Launch](#launch) for installation
 * Input the URL manually and save the URL with Save Input
-* Save Tab saves the current tab
-* Double click delete all to delete all entries
+* Save Tab will save the current tab
+* Double click Delete All to delete all entries
 
 ## Technologies
 * <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML tag"  />
