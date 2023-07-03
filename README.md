@@ -23,7 +23,7 @@
 <img src='https://user-images.githubusercontent.com/101952500/185812464-4f250cfd-f305-4275-9b83-de086022c046.jpg' alt='lead tracker img' width='98%' />
 
 ## Description
-The Lead Tracker was created as a training exercise to practice DOM manipulation and implement functionality using JavaScript. It is a chrome extension that acts as a bookmark system to save any tracking leads.
+The Lead Tracker is a chrome extension that acts as a bookmark system to save any tracking leads.
 
 ## How to use
 * See [Launch](#launch) for installation
